@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "com.multiservice.supr"
+    name: "SuperApp"
+  ios:
+    id: "com.multiservice.supr"
+    name: "SuperApp"
